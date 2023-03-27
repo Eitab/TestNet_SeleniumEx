@@ -6,6 +6,7 @@ emailReader.java - [Question 1]
 [Solution to Question 1]
 HtmlTablePage.java - [Question 2]
 [Solution to Question 2]
+in this class I implemented getTableCellText() and verifyTableCellText() functions
 I have also included a test class:
 
 HtmlTablesTest.java - [Description of Test Class]
